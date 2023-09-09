@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+body{
+    font-family: 'Lato', sans-serif;
+    line-height: 1.5;
+    font-size: 16px;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    vertical-align: middle;
+    max-width: 100%;
+    height: auto;
+}
+
+.ptbl-8{
+    padding: $spacing-base*8 0 $spacing-base*8 $spacing-base*8 ;
+}
+
+.pt-8{
+    padding-top: $spacing-base*8;
+}
+
+.pr-8{
+    padding-left: $spacing-base*8;
+}
+
+.pb-8{
+    padding-bottom: $spacing-base*8;
+}
+
+.pl-8{
+    padding-left: $spacing-base*8;
+}
+
+.pt-12px{
+    padding-top: $spacing-base*3;
+}
+.pb-12px{
+    padding-bottom: $spacing-base*3;
+}
+
+.width-10{
+    width: $spacing-base*10;
+}
+
+.height-10{
+    height: $spacing-base*10;
+}
+
+.mr-4{
+    margin-right: $spacing-base*4;
+}
+
+.fs-16{
+    font-size: $spacing-base*4;
+}
+
+.fs-14{
+    font-size: 14px;
+}
+
+.fs-12px{
+    font-size: 12px;
+}
+
+
+
+.main{
+    margin-left: 296px;
+}
+
+.container{
+    max-width:1024px;
+    padding: 0 12px;
+}
+
+.material-icons{
+    vertical-align: middle;
+}
+
+.material-icons-outlined{
+    vertical-align: middle;
+}
+
+.col-8{
+    width: 63.61655773420%;
+}
+
+.h-141{
+    height: 141px;
+}
+
+.w-141{
+    width: 141px;
+}
